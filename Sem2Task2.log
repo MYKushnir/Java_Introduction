@@ -1,0 +1,1984 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-07T20:21:43.433110400Z</date>
+  <millis>1683490903433</millis>
+  <nanos>110400</nanos>
+  <sequence>0</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 69, 3, 85, 94, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.518623300Z</date>
+  <millis>1683490903518</millis>
+  <nanos>623300</nanos>
+  <sequence>1</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 94, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.520879500Z</date>
+  <millis>1683490903520</millis>
+  <nanos>879500</nanos>
+  <sequence>2</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 94, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.522311200Z</date>
+  <millis>1683490903522</millis>
+  <nanos>311200</nanos>
+  <sequence>3</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 94, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.524326800Z</date>
+  <millis>1683490903524</millis>
+  <nanos>326800</nanos>
+  <sequence>4</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 94, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.526331100Z</date>
+  <millis>1683490903526</millis>
+  <nanos>331100</nanos>
+  <sequence>5</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 94, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.528331600Z</date>
+  <millis>1683490903528</millis>
+  <nanos>331600</nanos>
+  <sequence>6</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 94, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.529438400Z</date>
+  <millis>1683490903529</millis>
+  <nanos>438400</nanos>
+  <sequence>7</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 94, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.530847600Z</date>
+  <millis>1683490903530</millis>
+  <nanos>847600</nanos>
+  <sequence>8</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 94, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.531863600Z</date>
+  <millis>1683490903531</millis>
+  <nanos>863600</nanos>
+  <sequence>9</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 94, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.534040400Z</date>
+  <millis>1683490903534</millis>
+  <nanos>40400</nanos>
+  <sequence>10</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 94, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.535382800Z</date>
+  <millis>1683490903535</millis>
+  <nanos>382800</nanos>
+  <sequence>11</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 94, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.536714700Z</date>
+  <millis>1683490903536</millis>
+  <nanos>714700</nanos>
+  <sequence>12</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 94, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.538735200Z</date>
+  <millis>1683490903538</millis>
+  <nanos>735200</nanos>
+  <sequence>13</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 94, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.540182Z</date>
+  <millis>1683490903540</millis>
+  <nanos>182000</nanos>
+  <sequence>14</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 94, 82, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.542564600Z</date>
+  <millis>1683490903542</millis>
+  <nanos>564600</nanos>
+  <sequence>15</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 94, 43, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.543643200Z</date>
+  <millis>1683490903543</millis>
+  <nanos>643200</nanos>
+  <sequence>16</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 94, 61, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.544739700Z</date>
+  <millis>1683490903544</millis>
+  <nanos>739700</nanos>
+  <sequence>17</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 94, 92, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.547389700Z</date>
+  <millis>1683490903547</millis>
+  <nanos>389700</nanos>
+  <sequence>18</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 94, 86, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.548523800Z</date>
+  <millis>1683490903548</millis>
+  <nanos>523800</nanos>
+  <sequence>19</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 94, 3, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.549594Z</date>
+  <millis>1683490903549</millis>
+  <nanos>594000</nanos>
+  <sequence>20</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 94, 72, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.551751100Z</date>
+  <millis>1683490903551</millis>
+  <nanos>751100</nanos>
+  <sequence>21</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 94, 13, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.552769900Z</date>
+  <millis>1683490903552</millis>
+  <nanos>769900</nanos>
+  <sequence>22</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 94, 30]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.554921900Z</date>
+  <millis>1683490903554</millis>
+  <nanos>921900</nanos>
+  <sequence>23</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [31, 3, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.556083100Z</date>
+  <millis>1683490903556</millis>
+  <nanos>83100</nanos>
+  <sequence>24</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 85, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.558246500Z</date>
+  <millis>1683490903558</millis>
+  <nanos>246500</nanos>
+  <sequence>25</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 85, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.559323100Z</date>
+  <millis>1683490903559</millis>
+  <nanos>323100</nanos>
+  <sequence>26</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 85, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.560394300Z</date>
+  <millis>1683490903560</millis>
+  <nanos>394300</nanos>
+  <sequence>27</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 85, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.562503Z</date>
+  <millis>1683490903562</millis>
+  <nanos>503000</nanos>
+  <sequence>28</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 85, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.563864400Z</date>
+  <millis>1683490903563</millis>
+  <nanos>864400</nanos>
+  <sequence>29</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 85, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.564880100Z</date>
+  <millis>1683490903564</millis>
+  <nanos>880100</nanos>
+  <sequence>30</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 85, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.565962Z</date>
+  <millis>1683490903565</millis>
+  <nanos>962000</nanos>
+  <sequence>31</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 85, 16, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.568119100Z</date>
+  <millis>1683490903568</millis>
+  <nanos>119100</nanos>
+  <sequence>32</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 85, 9, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.569261200Z</date>
+  <millis>1683490903569</millis>
+  <nanos>261200</nanos>
+  <sequence>33</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 9, 85, 49, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.570331200Z</date>
+  <millis>1683490903570</millis>
+  <nanos>331200</nanos>
+  <sequence>34</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 85, 61, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.572468600Z</date>
+  <millis>1683490903572</millis>
+  <nanos>468600</nanos>
+  <sequence>35</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 85, 48, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.573588100Z</date>
+  <millis>1683490903573</millis>
+  <nanos>588100</nanos>
+  <sequence>36</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 85, 2, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.575682500Z</date>
+  <millis>1683490903575</millis>
+  <nanos>682500</nanos>
+  <sequence>37</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 85, 82, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.576835200Z</date>
+  <millis>1683490903576</millis>
+  <nanos>835200</nanos>
+  <sequence>38</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 85, 43, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.579012400Z</date>
+  <millis>1683490903579</millis>
+  <nanos>12400</nanos>
+  <sequence>39</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 85, 61, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.580096600Z</date>
+  <millis>1683490903580</millis>
+  <nanos>96600</nanos>
+  <sequence>40</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 85, 92, 86, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.581098700Z</date>
+  <millis>1683490903581</millis>
+  <nanos>98700</nanos>
+  <sequence>41</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 85, 86, 92, 3, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.582671900Z</date>
+  <millis>1683490903582</millis>
+  <nanos>671900</nanos>
+  <sequence>42</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 85, 86, 3, 92, 72, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.583682900Z</date>
+  <millis>1683490903583</millis>
+  <nanos>682900</nanos>
+  <sequence>43</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 85, 86, 3, 72, 92, 13, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.585700900Z</date>
+  <millis>1683490903585</millis>
+  <nanos>700900</nanos>
+  <sequence>44</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 85, 86, 3, 72, 13, 92, 30, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.586801400Z</date>
+  <millis>1683490903586</millis>
+  <nanos>801400</nanos>
+  <sequence>45</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 69, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.587816800Z</date>
+  <millis>1683490903587</millis>
+  <nanos>816800</nanos>
+  <sequence>46</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 69, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.589967600Z</date>
+  <millis>1683490903589</millis>
+  <nanos>967600</nanos>
+  <sequence>47</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.591294600Z</date>
+  <millis>1683490903591</millis>
+  <nanos>294600</nanos>
+  <sequence>48</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 69, 0, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.592312600Z</date>
+  <millis>1683490903592</millis>
+  <nanos>312600</nanos>
+  <sequence>49</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 69, 1, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.593316800Z</date>
+  <millis>1683490903593</millis>
+  <nanos>316800</nanos>
+  <sequence>50</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 69, 31, 16, 9, 49, 61, 48, 2, 82, 43, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.594332700Z</date>
+  <millis>1683490903594</millis>
+  <nanos>332700</nanos>
+  <sequence>51</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 31, 69, 16, 9, 49, 61, 48, 2, 82, 43, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.595798200Z</date>
+  <millis>1683490903595</millis>
+  <nanos>798200</nanos>
+  <sequence>52</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 31, 16, 69, 9, 49, 61, 48, 2, 82, 43, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.597156300Z</date>
+  <millis>1683490903597</millis>
+  <nanos>156300</nanos>
+  <sequence>53</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 31, 16, 9, 69, 49, 61, 48, 2, 82, 43, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.598536300Z</date>
+  <millis>1683490903598</millis>
+  <nanos>536300</nanos>
+  <sequence>54</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 69, 61, 48, 2, 82, 43, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.600919100Z</date>
+  <millis>1683490903600</millis>
+  <nanos>919100</nanos>
+  <sequence>55</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 69, 48, 2, 82, 43, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.602918500Z</date>
+  <millis>1683490903602</millis>
+  <nanos>918500</nanos>
+  <sequence>56</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 69, 2, 82, 43, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.604928Z</date>
+  <millis>1683490903604</millis>
+  <nanos>928000</nanos>
+  <sequence>57</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 82, 43, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.606921200Z</date>
+  <millis>1683490903606</millis>
+  <nanos>921200</nanos>
+  <sequence>58</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 82, 61, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.608435100Z</date>
+  <millis>1683490903608</millis>
+  <nanos>435100</nanos>
+  <sequence>59</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 82, 85, 86, 3, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.609457400Z</date>
+  <millis>1683490903609</millis>
+  <nanos>457400</nanos>
+  <sequence>60</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 82, 85, 3, 86, 72, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.611689500Z</date>
+  <millis>1683490903611</millis>
+  <nanos>689500</nanos>
+  <sequence>61</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 82, 85, 3, 72, 86, 13, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.612705800Z</date>
+  <millis>1683490903612</millis>
+  <nanos>705800</nanos>
+  <sequence>62</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 82, 85, 3, 72, 13, 86, 30, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.614712300Z</date>
+  <millis>1683490903614</millis>
+  <nanos>712300</nanos>
+  <sequence>63</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 31, 20, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.615706900Z</date>
+  <millis>1683490903615</millis>
+  <nanos>706900</nanos>
+  <sequence>64</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 31, 18, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.616710300Z</date>
+  <millis>1683490903616</millis>
+  <nanos>710300</nanos>
+  <sequence>65</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 69, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.618703300Z</date>
+  <millis>1683490903618</millis>
+  <nanos>703300</nanos>
+  <sequence>66</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 69, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.620789800Z</date>
+  <millis>1683490903620</millis>
+  <nanos>789800</nanos>
+  <sequence>67</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 69, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.621790Z</date>
+  <millis>1683490903621</millis>
+  <nanos>790000</nanos>
+  <sequence>68</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 69, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.623291500Z</date>
+  <millis>1683490903623</millis>
+  <nanos>291500</nanos>
+  <sequence>69</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 31, 69, 16, 9, 49, 61, 48, 2, 69, 43, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.625435200Z</date>
+  <millis>1683490903625</millis>
+  <nanos>435200</nanos>
+  <sequence>70</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 31, 16, 69, 9, 49, 61, 48, 2, 69, 43, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.626455300Z</date>
+  <millis>1683490903626</millis>
+  <nanos>455300</nanos>
+  <sequence>71</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 31, 16, 9, 69, 49, 61, 48, 2, 69, 43, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.627450800Z</date>
+  <millis>1683490903627</millis>
+  <nanos>450800</nanos>
+  <sequence>72</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 31, 16, 9, 49, 69, 61, 48, 2, 69, 43, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.628803800Z</date>
+  <millis>1683490903628</millis>
+  <nanos>803800</nanos>
+  <sequence>73</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 31, 16, 9, 49, 61, 69, 48, 2, 69, 43, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.629882400Z</date>
+  <millis>1683490903629</millis>
+  <nanos>882400</nanos>
+  <sequence>74</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 31, 16, 9, 49, 61, 48, 69, 2, 69, 43, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.630903300Z</date>
+  <millis>1683490903630</millis>
+  <nanos>903300</nanos>
+  <sequence>75</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 69, 43, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.632344100Z</date>
+  <millis>1683490903632</millis>
+  <nanos>344100</nanos>
+  <sequence>76</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 69, 61, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.633353500Z</date>
+  <millis>1683490903633</millis>
+  <nanos>353500</nanos>
+  <sequence>77</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 69, 82, 85, 3, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.634842Z</date>
+  <millis>1683490903634</millis>
+  <nanos>842000</nanos>
+  <sequence>78</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 69, 82, 3, 85, 72, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.636856100Z</date>
+  <millis>1683490903636</millis>
+  <nanos>856100</nanos>
+  <sequence>79</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 69, 82, 3, 72, 85, 13, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.639368600Z</date>
+  <millis>1683490903639</millis>
+  <nanos>368600</nanos>
+  <sequence>80</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 69, 82, 3, 72, 13, 85, 30, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.640442900Z</date>
+  <millis>1683490903640</millis>
+  <nanos>442900</nanos>
+  <sequence>81</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 20, 18, 31, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 69, 82, 3, 72, 13, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.641430300Z</date>
+  <millis>1683490903641</millis>
+  <nanos>430300</nanos>
+  <sequence>82</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 31, 11, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 69, 82, 3, 72, 13, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.642472700Z</date>
+  <millis>1683490903642</millis>
+  <nanos>472700</nanos>
+  <sequence>83</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 11, 31, 0, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 69, 82, 3, 72, 13, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.644838300Z</date>
+  <millis>1683490903644</millis>
+  <nanos>838300</nanos>
+  <sequence>84</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 11, 0, 31, 1, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 69, 82, 3, 72, 13, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.645830800Z</date>
+  <millis>1683490903645</millis>
+  <nanos>830800</nanos>
+  <sequence>85</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 11, 0, 1, 31, 31, 16, 9, 49, 61, 48, 2, 69, 43, 61, 69, 82, 3, 72, 13, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.647178600Z</date>
+  <millis>1683490903647</millis>
+  <nanos>178600</nanos>
+  <sequence>86</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 11, 0, 1, 31, 16, 31, 9, 49, 61, 48, 2, 69, 43, 61, 69, 82, 3, 72, 13, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.648196800Z</date>
+  <millis>1683490903648</millis>
+  <nanos>196800</nanos>
+  <sequence>87</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 11, 0, 1, 31, 16, 9, 31, 49, 61, 48, 2, 69, 43, 61, 69, 82, 3, 72, 13, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.649360Z</date>
+  <millis>1683490903649</millis>
+  <nanos>360000</nanos>
+  <sequence>88</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 11, 0, 1, 31, 16, 9, 31, 49, 48, 61, 2, 69, 43, 61, 69, 82, 3, 72, 13, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.650385100Z</date>
+  <millis>1683490903650</millis>
+  <nanos>385100</nanos>
+  <sequence>89</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 11, 0, 1, 31, 16, 9, 31, 49, 48, 2, 61, 69, 43, 61, 69, 82, 3, 72, 13, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.652380500Z</date>
+  <millis>1683490903652</millis>
+  <nanos>380500</nanos>
+  <sequence>90</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 11, 0, 1, 31, 16, 9, 31, 49, 48, 2, 61, 43, 69, 61, 69, 82, 3, 72, 13, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.654566900Z</date>
+  <millis>1683490903654</millis>
+  <nanos>566900</nanos>
+  <sequence>91</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 11, 0, 1, 31, 16, 9, 31, 49, 48, 2, 61, 43, 61, 69, 69, 82, 3, 72, 13, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.656826200Z</date>
+  <millis>1683490903656</millis>
+  <nanos>826200</nanos>
+  <sequence>92</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 11, 0, 1, 31, 16, 9, 31, 49, 48, 2, 61, 43, 61, 69, 69, 3, 82, 72, 13, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.657822200Z</date>
+  <millis>1683490903657</millis>
+  <nanos>822200</nanos>
+  <sequence>93</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 11, 0, 1, 31, 16, 9, 31, 49, 48, 2, 61, 43, 61, 69, 69, 3, 72, 82, 13, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.658989900Z</date>
+  <millis>1683490903658</millis>
+  <nanos>989900</nanos>
+  <sequence>94</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 11, 0, 1, 31, 16, 9, 31, 49, 48, 2, 61, 43, 61, 69, 69, 3, 72, 13, 82, 30, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.660014500Z</date>
+  <millis>1683490903660</millis>
+  <nanos>14500</nanos>
+  <sequence>95</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 20, 11, 0, 1, 31, 16, 9, 31, 49, 48, 2, 61, 43, 61, 69, 69, 3, 72, 13, 30, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.662012400Z</date>
+  <millis>1683490903662</millis>
+  <nanos>12400</nanos>
+  <sequence>96</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 11, 20, 0, 1, 31, 16, 9, 31, 49, 48, 2, 61, 43, 61, 69, 69, 3, 72, 13, 30, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.663012Z</date>
+  <millis>1683490903663</millis>
+  <nanos>12000</nanos>
+  <sequence>97</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 11, 0, 20, 1, 31, 16, 9, 31, 49, 48, 2, 61, 43, 61, 69, 69, 3, 72, 13, 30, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.664011700Z</date>
+  <millis>1683490903664</millis>
+  <nanos>11700</nanos>
+  <sequence>98</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 11, 0, 1, 20, 31, 16, 9, 31, 49, 48, 2, 61, 43, 61, 69, 69, 3, 72, 13, 30, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.665012600Z</date>
+  <millis>1683490903665</millis>
+  <nanos>12600</nanos>
+  <sequence>99</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 11, 0, 1, 20, 16, 31, 9, 31, 49, 48, 2, 61, 43, 61, 69, 69, 3, 72, 13, 30, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.667009900Z</date>
+  <millis>1683490903667</millis>
+  <nanos>9900</nanos>
+  <sequence>100</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 11, 0, 1, 20, 16, 9, 31, 31, 49, 48, 2, 61, 43, 61, 69, 69, 3, 72, 13, 30, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.668005600Z</date>
+  <millis>1683490903668</millis>
+  <nanos>5600</nanos>
+  <sequence>101</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 11, 0, 1, 20, 16, 9, 31, 31, 48, 49, 2, 61, 43, 61, 69, 69, 3, 72, 13, 30, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.670086600Z</date>
+  <millis>1683490903670</millis>
+  <nanos>86600</nanos>
+  <sequence>102</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 11, 0, 1, 20, 16, 9, 31, 31, 48, 2, 49, 61, 43, 61, 69, 69, 3, 72, 13, 30, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.672458Z</date>
+  <millis>1683490903672</millis>
+  <nanos>458000</nanos>
+  <sequence>103</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 11, 0, 1, 20, 16, 9, 31, 31, 48, 2, 49, 43, 61, 61, 69, 69, 3, 72, 13, 30, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.673478Z</date>
+  <millis>1683490903673</millis>
+  <nanos>478000</nanos>
+  <sequence>104</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 11, 0, 1, 20, 16, 9, 31, 31, 48, 2, 49, 43, 61, 61, 69, 3, 69, 72, 13, 30, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.675488100Z</date>
+  <millis>1683490903675</millis>
+  <nanos>488100</nanos>
+  <sequence>105</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 11, 0, 1, 20, 16, 9, 31, 31, 48, 2, 49, 43, 61, 61, 69, 3, 69, 13, 72, 30, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.676484500Z</date>
+  <millis>1683490903676</millis>
+  <nanos>484500</nanos>
+  <sequence>106</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 18, 11, 0, 1, 20, 16, 9, 31, 31, 48, 2, 49, 43, 61, 61, 69, 3, 69, 13, 30, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.677478200Z</date>
+  <millis>1683490903677</millis>
+  <nanos>478200</nanos>
+  <sequence>107</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 11, 18, 0, 1, 20, 16, 9, 31, 31, 48, 2, 49, 43, 61, 61, 69, 3, 69, 13, 30, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.678486100Z</date>
+  <millis>1683490903678</millis>
+  <nanos>486100</nanos>
+  <sequence>108</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 11, 0, 18, 1, 20, 16, 9, 31, 31, 48, 2, 49, 43, 61, 61, 69, 3, 69, 13, 30, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.680593700Z</date>
+  <millis>1683490903680</millis>
+  <nanos>593700</nanos>
+  <sequence>109</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 11, 0, 1, 18, 20, 16, 9, 31, 31, 48, 2, 49, 43, 61, 61, 69, 3, 69, 13, 30, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.681599600Z</date>
+  <millis>1683490903681</millis>
+  <nanos>599600</nanos>
+  <sequence>110</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 11, 0, 1, 18, 16, 20, 9, 31, 31, 48, 2, 49, 43, 61, 61, 69, 3, 69, 13, 30, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.682826600Z</date>
+  <millis>1683490903682</millis>
+  <nanos>826600</nanos>
+  <sequence>111</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 11, 0, 1, 18, 16, 9, 20, 31, 31, 48, 2, 49, 43, 61, 61, 69, 3, 69, 13, 30, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.684847700Z</date>
+  <millis>1683490903684</millis>
+  <nanos>847700</nanos>
+  <sequence>112</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 11, 0, 1, 18, 16, 9, 20, 31, 31, 2, 48, 49, 43, 61, 61, 69, 3, 69, 13, 30, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.686072800Z</date>
+  <millis>1683490903686</millis>
+  <nanos>72800</nanos>
+  <sequence>113</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 11, 0, 1, 18, 16, 9, 20, 31, 31, 2, 48, 43, 49, 61, 61, 69, 3, 69, 13, 30, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.687103100Z</date>
+  <millis>1683490903687</millis>
+  <nanos>103100</nanos>
+  <sequence>114</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 11, 0, 1, 18, 16, 9, 20, 31, 31, 2, 48, 43, 49, 61, 61, 3, 69, 69, 13, 30, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.689097100Z</date>
+  <millis>1683490903689</millis>
+  <nanos>97100</nanos>
+  <sequence>115</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 11, 0, 1, 18, 16, 9, 20, 31, 31, 2, 48, 43, 49, 61, 61, 3, 69, 13, 69, 30, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.690094600Z</date>
+  <millis>1683490903690</millis>
+  <nanos>94600</nanos>
+  <sequence>116</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 11, 0, 1, 18, 16, 9, 20, 31, 31, 2, 48, 43, 49, 61, 61, 3, 69, 13, 30, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.691138800Z</date>
+  <millis>1683490903691</millis>
+  <nanos>138800</nanos>
+  <sequence>117</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 0, 11, 1, 18, 16, 9, 20, 31, 31, 2, 48, 43, 49, 61, 61, 3, 69, 13, 30, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.693665700Z</date>
+  <millis>1683490903693</millis>
+  <nanos>665700</nanos>
+  <sequence>118</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 0, 1, 11, 18, 16, 9, 20, 31, 31, 2, 48, 43, 49, 61, 61, 3, 69, 13, 30, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.694892700Z</date>
+  <millis>1683490903694</millis>
+  <nanos>892700</nanos>
+  <sequence>119</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 0, 1, 11, 16, 18, 9, 20, 31, 31, 2, 48, 43, 49, 61, 61, 3, 69, 13, 30, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.695906Z</date>
+  <millis>1683490903695</millis>
+  <nanos>906000</nanos>
+  <sequence>120</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 0, 1, 11, 16, 9, 18, 20, 31, 31, 2, 48, 43, 49, 61, 61, 3, 69, 13, 30, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.697189800Z</date>
+  <millis>1683490903697</millis>
+  <nanos>189800</nanos>
+  <sequence>121</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 0, 1, 11, 16, 9, 18, 20, 31, 2, 31, 48, 43, 49, 61, 61, 3, 69, 13, 30, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.698239400Z</date>
+  <millis>1683490903698</millis>
+  <nanos>239400</nanos>
+  <sequence>122</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 0, 1, 11, 16, 9, 18, 20, 31, 2, 31, 43, 48, 49, 61, 61, 3, 69, 13, 30, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.700542500Z</date>
+  <millis>1683490903700</millis>
+  <nanos>542500</nanos>
+  <sequence>123</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 0, 1, 11, 16, 9, 18, 20, 31, 2, 31, 43, 48, 49, 61, 3, 61, 69, 13, 30, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.702088400Z</date>
+  <millis>1683490903702</millis>
+  <nanos>88400</nanos>
+  <sequence>124</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 0, 1, 11, 16, 9, 18, 20, 31, 2, 31, 43, 48, 49, 61, 3, 61, 13, 69, 30, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.705081500Z</date>
+  <millis>1683490903705</millis>
+  <nanos>81500</nanos>
+  <sequence>125</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [3, 0, 1, 11, 16, 9, 18, 20, 31, 2, 31, 43, 48, 49, 61, 3, 61, 13, 30, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.706089400Z</date>
+  <millis>1683490903706</millis>
+  <nanos>89400</nanos>
+  <sequence>126</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 3, 1, 11, 16, 9, 18, 20, 31, 2, 31, 43, 48, 49, 61, 3, 61, 13, 30, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.707083200Z</date>
+  <millis>1683490903707</millis>
+  <nanos>83200</nanos>
+  <sequence>127</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 11, 16, 9, 18, 20, 31, 2, 31, 43, 48, 49, 61, 3, 61, 13, 30, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.709921700Z</date>
+  <millis>1683490903709</millis>
+  <nanos>921700</nanos>
+  <sequence>128</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 11, 9, 16, 18, 20, 31, 2, 31, 43, 48, 49, 61, 3, 61, 13, 30, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.710988600Z</date>
+  <millis>1683490903710</millis>
+  <nanos>988600</nanos>
+  <sequence>129</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 11, 9, 16, 18, 20, 2, 31, 31, 43, 48, 49, 61, 3, 61, 13, 30, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.712211500Z</date>
+  <millis>1683490903712</millis>
+  <nanos>211500</nanos>
+  <sequence>130</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 11, 9, 16, 18, 20, 2, 31, 31, 43, 48, 49, 3, 61, 61, 13, 30, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.713225100Z</date>
+  <millis>1683490903713</millis>
+  <nanos>225100</nanos>
+  <sequence>131</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 11, 9, 16, 18, 20, 2, 31, 31, 43, 48, 49, 3, 61, 13, 61, 30, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.714267100Z</date>
+  <millis>1683490903714</millis>
+  <nanos>267100</nanos>
+  <sequence>132</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 11, 9, 16, 18, 20, 2, 31, 31, 43, 48, 49, 3, 61, 13, 30, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.716298900Z</date>
+  <millis>1683490903716</millis>
+  <nanos>298900</nanos>
+  <sequence>133</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 11, 16, 18, 20, 2, 31, 31, 43, 48, 49, 3, 61, 13, 30, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.717290800Z</date>
+  <millis>1683490903717</millis>
+  <nanos>290800</nanos>
+  <sequence>134</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 11, 16, 18, 2, 20, 31, 31, 43, 48, 49, 3, 61, 13, 30, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.718292600Z</date>
+  <millis>1683490903718</millis>
+  <nanos>292600</nanos>
+  <sequence>135</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 11, 16, 18, 2, 20, 31, 31, 43, 48, 3, 49, 61, 13, 30, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.720292900Z</date>
+  <millis>1683490903720</millis>
+  <nanos>292900</nanos>
+  <sequence>136</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 11, 16, 18, 2, 20, 31, 31, 43, 48, 3, 49, 13, 61, 30, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.721298700Z</date>
+  <millis>1683490903721</millis>
+  <nanos>298700</nanos>
+  <sequence>137</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 11, 16, 18, 2, 20, 31, 31, 43, 48, 3, 49, 13, 30, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.723284800Z</date>
+  <millis>1683490903723</millis>
+  <nanos>284800</nanos>
+  <sequence>138</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 11, 16, 2, 18, 20, 31, 31, 43, 48, 3, 49, 13, 30, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.724594300Z</date>
+  <millis>1683490903724</millis>
+  <nanos>594300</nanos>
+  <sequence>139</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 11, 16, 2, 18, 20, 31, 31, 43, 3, 48, 49, 13, 30, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.726012600Z</date>
+  <millis>1683490903726</millis>
+  <nanos>12600</nanos>
+  <sequence>140</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 11, 16, 2, 18, 20, 31, 31, 43, 3, 48, 13, 49, 30, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.727037500Z</date>
+  <millis>1683490903727</millis>
+  <nanos>37500</nanos>
+  <sequence>141</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 11, 16, 2, 18, 20, 31, 31, 43, 3, 48, 13, 30, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.728392Z</date>
+  <millis>1683490903728</millis>
+  <nanos>392000</nanos>
+  <sequence>142</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 11, 2, 16, 18, 20, 31, 31, 43, 3, 48, 13, 30, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.729614500Z</date>
+  <millis>1683490903729</millis>
+  <nanos>614500</nanos>
+  <sequence>143</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 11, 2, 16, 18, 20, 31, 31, 3, 43, 48, 13, 30, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.730639400Z</date>
+  <millis>1683490903730</millis>
+  <nanos>639400</nanos>
+  <sequence>144</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 11, 2, 16, 18, 20, 31, 31, 3, 43, 13, 48, 30, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.732641200Z</date>
+  <millis>1683490903732</millis>
+  <nanos>641200</nanos>
+  <sequence>145</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 11, 2, 16, 18, 20, 31, 31, 3, 43, 13, 30, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.733632400Z</date>
+  <millis>1683490903733</millis>
+  <nanos>632400</nanos>
+  <sequence>146</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 2, 11, 16, 18, 20, 31, 31, 3, 43, 13, 30, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.734634400Z</date>
+  <millis>1683490903734</millis>
+  <nanos>634400</nanos>
+  <sequence>147</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 2, 11, 16, 18, 20, 31, 3, 31, 43, 13, 30, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.736644500Z</date>
+  <millis>1683490903736</millis>
+  <nanos>644500</nanos>
+  <sequence>148</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 2, 11, 16, 18, 20, 31, 3, 31, 13, 43, 30, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.738634300Z</date>
+  <millis>1683490903738</millis>
+  <nanos>634300</nanos>
+  <sequence>149</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 9, 2, 11, 16, 18, 20, 31, 3, 31, 13, 30, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.739636200Z</date>
+  <millis>1683490903739</millis>
+  <nanos>636200</nanos>
+  <sequence>150</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 2, 9, 11, 16, 18, 20, 31, 3, 31, 13, 30, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.740638200Z</date>
+  <millis>1683490903740</millis>
+  <nanos>638200</nanos>
+  <sequence>151</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 2, 9, 11, 16, 18, 20, 3, 31, 31, 13, 30, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.741641900Z</date>
+  <millis>1683490903741</millis>
+  <nanos>641900</nanos>
+  <sequence>152</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 2, 9, 11, 16, 18, 20, 3, 31, 13, 31, 30, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.743633800Z</date>
+  <millis>1683490903743</millis>
+  <nanos>633800</nanos>
+  <sequence>153</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 3, 2, 9, 11, 16, 18, 20, 3, 31, 13, 30, 31, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.744635200Z</date>
+  <millis>1683490903744</millis>
+  <nanos>635200</nanos>
+  <sequence>154</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 2, 3, 9, 11, 16, 18, 20, 3, 31, 13, 30, 31, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.745872300Z</date>
+  <millis>1683490903745</millis>
+  <nanos>872300</nanos>
+  <sequence>155</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 2, 3, 9, 11, 16, 18, 3, 20, 31, 13, 30, 31, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.746891200Z</date>
+  <millis>1683490903746</millis>
+  <nanos>891200</nanos>
+  <sequence>156</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 2, 3, 9, 11, 16, 18, 3, 20, 13, 31, 30, 31, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.747889900Z</date>
+  <millis>1683490903747</millis>
+  <nanos>889900</nanos>
+  <sequence>157</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 2, 3, 9, 11, 16, 18, 3, 20, 13, 30, 31, 31, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.748895100Z</date>
+  <millis>1683490903748</millis>
+  <nanos>895100</nanos>
+  <sequence>158</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 2, 3, 9, 11, 16, 3, 18, 20, 13, 30, 31, 31, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.750361100Z</date>
+  <millis>1683490903750</millis>
+  <nanos>361100</nanos>
+  <sequence>159</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 2, 3, 9, 11, 16, 3, 18, 13, 20, 30, 31, 31, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.752382800Z</date>
+  <millis>1683490903752</millis>
+  <nanos>382800</nanos>
+  <sequence>160</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 2, 3, 9, 11, 3, 16, 18, 13, 20, 30, 31, 31, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.754387800Z</date>
+  <millis>1683490903754</millis>
+  <nanos>387800</nanos>
+  <sequence>161</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 2, 3, 9, 11, 3, 16, 13, 18, 20, 30, 31, 31, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.755383400Z</date>
+  <millis>1683490903755</millis>
+  <nanos>383400</nanos>
+  <sequence>162</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 2, 3, 9, 3, 11, 16, 13, 18, 20, 30, 31, 31, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.756381400Z</date>
+  <millis>1683490903756</millis>
+  <nanos>381400</nanos>
+  <sequence>163</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 2, 3, 9, 3, 11, 13, 16, 18, 20, 30, 31, 31, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+<record>
+  <date>2023-05-07T20:21:43.758380700Z</date>
+  <millis>1683490903758</millis>
+  <nanos>380700</nanos>
+  <sequence>164</sequence>
+  <logger>Sem2Task2</logger>
+  <level>INFO</level>
+  <class>Sem2Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array = [0, 1, 2, 3, 3, 9, 11, 13, 16, 18, 20, 30, 31, 31, 43, 48, 49, 61, 61, 69, 69, 72, 82, 85, 86, 92, 94]</message>
+</record>
+</log>
